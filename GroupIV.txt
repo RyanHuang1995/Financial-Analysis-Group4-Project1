@@ -1,0 +1,27 @@
+Group IV
+
+Project Title
+Unveiling the Ecosystem of Attractive Public Stocks
+
+Team Members:
+Abulla
+Caroline
+Harold
+Ryan
+
+Project Description/Outline:
+Uncovering the correlation/relationship between Parent Company and a Smaller Supplier for Public Stocks
+
+Research Questions to Answer
+Is there a positive/negative/meaningful correlation to Parent Stock and Supplier Stock?
+Global?
+Advertisement?
+Will this influence trading decisions?
+Can we implement our findings for forecasting and calling stocks based on the statistical analysis found?
+
+Data Sets to be Used 
+-Kaggle
+-Qundle
+-Google Finance
+
+Rough Breakdown of Tasks 
